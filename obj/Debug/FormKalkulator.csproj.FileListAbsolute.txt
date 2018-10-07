@@ -1,0 +1,32 @@
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\bin\Debug\FormKalkulator.exe.config
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\obj\Debug\FormKalkulator.csprojResolveAssemblyReference.cache
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\obj\Debug\FormKalkulator.Form1.resources
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\obj\Debug\FormKalkulator.Properties.Resources.resources
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\obj\Debug\FormKalkulator.csproj.GenerateResource.Cache
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\bin\Debug\FormKalkulator.exe
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\bin\Debug\FormKalkulator.pdb
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\obj\Debug\FormKalkulator.exe
+C:\Users\KeluargaAdi\AppData\Local\Temporary Projects\FormKalkulator\obj\Debug\FormKalkulator.pdb
+D:\SEKOLAH\KK3\C#\FormKalkulator\bin\Debug\FormKalkulator.exe.config
+D:\SEKOLAH\KK3\C#\FormKalkulator\obj\Debug\FormKalkulator.exe
+D:\SEKOLAH\KK3\C#\FormKalkulator\bin\Debug\FormKalkulator.exe
+D:\SEKOLAH\KK3\C#\FormKalkulator\bin\Debug\FormKalkulator.pdb
+D:\SEKOLAH\KK3\C#\FormKalkulator\obj\Debug\FormKalkulator.csprojResolveAssemblyReference.cache
+D:\SEKOLAH\KK3\C#\FormKalkulator\obj\Debug\FormKalkulator.Form1.resources
+D:\SEKOLAH\KK3\C#\FormKalkulator\obj\Debug\FormKalkulator.Login.resources
+D:\SEKOLAH\KK3\C#\FormKalkulator\obj\Debug\FormKalkulator.MenuUtama.resources
+D:\SEKOLAH\KK3\C#\FormKalkulator\obj\Debug\FormKalkulator.Properties.Resources.resources
+D:\SEKOLAH\KK3\C#\FormKalkulator\obj\Debug\FormKalkulator.csproj.GenerateResource.Cache
+D:\SEKOLAH\KK3\C#\FormKalkulator\obj\Debug\FormKalkulator.pdb
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\bin\Debug\FormKalkulator.exe.config
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\bin\Debug\FormKalkulator.exe
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\bin\Debug\FormKalkulator.pdb
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.csprojAssemblyReference.cache
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.Form1.resources
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.Login.resources
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.MenuUtama.resources
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.Properties.Resources.resources
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.csproj.GenerateResource.cache
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.csproj.CoreCompileInputs.cache
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.exe
+D:\Danov\Sekolah\XIRPL3\KK3\KK3LOL\C#\FormKalkulator\obj\Debug\FormKalkulator.pdb
